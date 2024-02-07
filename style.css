@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.btn{
+  height: 25px;
+  width: 70px;
+  line-height: 25px;
+  text-align: center;
+  background-color: antiquewhite;
+  display: inline-block;
+  margin: 10px;
+  color: rgb(66, 170, 26);
+  cursor: pointer;
+}
+.activ{
+  box-shadow: 2px 5px 10px red;
+}
